@@ -1,3 +1,10 @@
+<h1 align="center">Hola 👋,Me llamo Jose Mercado</h1>
+<h3 align="center">Vivo en Colombia y soy un desarrollador de Software apasionado.</h3>
+
+- 💬 Puedes Preguntarme Sobre: **Java,PHP,JS,HTML,CSS,Laravel,Spring**
+
+- 📫 Mi Email es:  **jhosemer2000@gmail.com**
+- 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josemercadosotelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josemercadosotelo" height="30" width="40" /></a>
