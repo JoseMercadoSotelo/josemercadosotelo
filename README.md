@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Me llamo Jose Mercado</h1>
-<h3 align="center">Vivo en Colombia y soy un desarrollador de Software apasionado.</h3>
+<h3 align="center">Vivo en Colombia y soy un desarrollador web apasionado.</h3>
 
-- 💬 Puedes Preguntarme Sobre: **Java,PHP,JS,HTML,CSS,Laravel,Spring**
+- 💬 Puedes Preguntarme Sobre: **JavaScript,React.js,Node.Js**
 
 - 📫 Mi Email es:  **jhosemer2000@gmail.com**
 - 
